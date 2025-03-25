@@ -12,7 +12,7 @@ Estructura del proyecto:
 ├── project/proyect_dataAnalisis.xlsx # Datos procesados  
 ├── README.md # Descripción del proyecto
 
-Instalación y Requisitos 
+Instalación y Requisitos   
 Para abrir este proyecto y probar todas sus funcionalidades es necesario tener instalada el programa “Microsoft Excel”
 
 Resultados y Conclusiones
