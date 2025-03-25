@@ -9,7 +9,7 @@ Pasos realizados:
 7. Creamos una Columna índice para la tabla
 8. Ocultamos las columnas que no nos interesan
 
-Análisis descriptivo de los datos
+Análisis descriptivo de los datos  
 A continuación se presentan algunos datos interesantes que se obtienen a partir de un análisis a grandes rasgos.
 1. Resumen Estadístico
 Precio Promedio: 1.030.000€
@@ -33,7 +33,7 @@ Propiedades con ascensor: 8.419
 Propiedades sin ascensor: 2.614
 No especificado: 793
 
-Informe explicativo del análisis
+Informe explicativo del análisis  
 El presente informe tiene como objetivo analizar y describir las principales características del mercado inmobiliario en base a los datos recopilados. Se examinan variables clave como el precio de las propiedades, su superficie, el número de habitaciones y baños, la altura de la planta en la que se ubican y la disponibilidad de ascensor. A partir del análisis de estos datos, se extraen conclusiones relevantes sobre la distribución y tendencias del mercado.
 Existe una amplia diversidad de precios y tamaños de propiedades, con valores que oscilan desde viviendas asequibles hasta propiedades de lujo.
 La mayoría de las propiedades analizadas cuentan con ascensor, lo que indica que es una característica común en el mercado. Sin embargo, una cantidad significativa de viviendas carece de este servicio, lo que podría influir en su valor y accesibilidad, especialmente en plantas altas.
