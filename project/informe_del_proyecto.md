@@ -11,14 +11,14 @@ Pasos realizados:
 
 Análisis descriptivo de los datos  
 A continuación se presentan algunos datos interesantes que se obtienen a partir de un análisis a grandes rasgos.
-1. Resumen Estadístico
+1. Resumen Estadístico 
 Precio Promedio: 1.030.000€
 Superficie Promedio: 154 m²
 Número Promedio de Habitaciones: 2.8
 Número Promedio de Baños: 1.9
 Planta más Común(moda): 1
 
-2. Rango de Datos
+2. Rango de Datos 
 Precio mínimo: 12.000 €
 Precio máximo: 23.000.000 €
 Superficie mínima: 11 m²
