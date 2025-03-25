@@ -8,8 +8,8 @@ Los datos fueron obtenidos del sitio web: https://www.kaggle.com/datasets/fjcob1
 
 Estructura del proyecto:
 
-├──datos_originales/Datos.csv
-├── project/proyect_dataAnalisis.xlsx # Datos procesados
+├──datos_originales/Datos.csv  
+├── project/proyect_dataAnalisis.xlsx # Datos procesados  
 ├── README.md # Descripción del proyecto
 
 Instalación y Requisitos 
