@@ -1,12 +1,16 @@
 Análisis de Datos Inmobiliarios
 
 Descripción
+
 Este proyecto tiene como objetivo organizar y analizar información del mercado inmobiliario de Madrid (datos de la empresa “Idealista”) para identificar tendencias, patrones y oportunidades. Mediante el uso de tablas dinámicas, gráficos y funciones avanzadas de Excel, se evaluarán variables clave como: precios de venta, ubicación, superficie entre otros aspectos. Este análisis permitirá obtener datos valiosos para la toma de decisiones en inversiones, tasaciones y estrategias comerciales en el sector inmobiliario. 
 
 Los datos fueron obtenidos del sitio web: https://www.kaggle.com/datasets/fjcob1/idealista-madrid
 
 Estructura del proyecto:
-├── data/proyecto.xls # Datos crudos y procesados  
+
+├──
+├── project
+    /proyect_dataAnalisis.xlsx # Datos procesados  
 ├── README.md # Descripción del proyecto
 
 Instalación y Requisitos 
