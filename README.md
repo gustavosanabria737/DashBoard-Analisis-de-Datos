@@ -13,6 +13,7 @@ Estructura del proyecto:
 ├── README.md # Descripción del proyecto
 
 Instalación y Requisitos   
+
 Para abrir este proyecto y probar todas sus funcionalidades es necesario tener instalada el programa “Microsoft Excel”
 
 Resultados y Conclusiones
